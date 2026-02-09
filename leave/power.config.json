@@ -1,0 +1,13 @@
+{
+  "appId": "",
+  "appDisplayName": "HRMS",
+  "description": null,
+  "environmentId": "858af1d0-ec4a-ea32-810d-3def8e3c5155",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "logoPath": "Default",
+  "localAppUrl": "http://localhost:3000/",
+  "region": "prod",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
